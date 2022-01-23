@@ -1,0 +1,47 @@
+{
+  "game_bool": [
+    {
+      "guild_id": "931892701786419251",
+      "game_bool": "true"
+    }
+  ],
+  "channels": [
+    {
+      "guild_id": "931892701786419251",
+      "channel_id": "934692814204317736"
+    }
+  ],
+  "son_kelime": [
+    {
+      "guild_id": "931892701786419251",
+      "son_kelime": "kaz",
+      "son_harf": "z"
+    }
+  ],
+  "son_kelime_yazan": [
+    {
+      "guild_id": "931892701786419251",
+      "son_kelime_yazan": "323462575994175489"
+    }
+  ],
+  "puanlar": [
+    {
+      "guild_id": "931892701786419251",
+      "puanlar": [
+        {
+          "client_id": "323462575994175489",
+          "puan": 6
+        }
+      ]
+    }
+  ],
+  "kullanilan_kelimeler_guilds": [
+    {
+      "guild_id": "931892701786419251",
+      "kullanilan_kelimeler": [
+        "tarak",
+        "kaz"
+      ]
+    }
+  ]
+}
